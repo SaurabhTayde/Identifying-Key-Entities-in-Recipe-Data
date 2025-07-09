@@ -1,6 +1,7 @@
 # Identifying Key Entities in Recipe Data
 
 
+                                                                                                                                                                                   
 | :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Case Study Name**  | Identifying Key Entities in Recipe Data                                                                                                                     |
 | **Case Study Goal**  | To automatically convert unstructured recipe text into structured, actionable data (quantity, unit, ingredient) to power new digital features and business analytics. |
