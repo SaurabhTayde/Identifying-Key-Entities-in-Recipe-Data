@@ -1,23 +1,13 @@
 # Identifying Key Entities in Recipe Data
 
-```
-###################################################################################
-###
-###  Case Study Name        :  Identifying Key Entities in Recipe Data
-###
-###  Case Study Goal        :  To automatically convert unstructured recipe text
-###                           into structured, actionable data (quantity, unit,
-###                           ingredient) to power new digital features and
-###                           business analytics.
-###
-###  Author                 :  Saurabh Tayde
-###
-###  Email                  :  saurabhtayde2810@gmail.com
-###
-###  Date                   :  9th July 2025
-###
-###################################################################################
-```
+|                      |                                                                                                                                                             |
+| :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Case Study Name**  | Identifying Key Entities in Recipe Data                                                                                                                     |
+| **Case Study Goal**  | To automatically convert unstructured recipe text into structured, actionable data (quantity, unit, ingredient) to power new digital features and business analytics. |
+| **Author**           | Saurabh Tayde                                                                                                                                               |
+| **Email**            | saurabhtayde2810@gmail.com                                                                                                                                  |
+| **Date**             | 9th July 2025                                                                                                                                               |
+
 
 ## Project Overview
 
